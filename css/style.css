@@ -1,0 +1,48 @@
+.magin{
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+.img_01{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 35%;
+}
+.img_02{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 35%;
+}
+
+.img_03{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 35%;
+}
+
+.img_04{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 35%;
+}
+
+.ladoalado{
+    margin: 0 auto;
+    display: block;
+    max-width: 35%;
+}
+
+.logo{
+    margin: 0 auto;
+    display: inline-block;
+}
+
+.img_07{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 35%;
+}
